@@ -47,14 +47,7 @@ in memory before reading into R. Make sure your computer has enough
 memory (most modern computers should be fine).
 
 * We will only be using data from the dates 2007-02-01 and
-2007-02-02. One alternative is to read the data from just those dates
-rather than reading in the entire dataset and subsetting to those
-dates.
-
-* You may find it useful to convert the Date and Time variables to
-Date/Time classes in R using the `strptime()` and `as.Date()`
-functions.
-
+2007-02-02. 
 * Note that in this dataset missing values are coded as `?`.
 
 
